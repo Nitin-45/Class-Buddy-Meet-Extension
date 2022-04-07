@@ -1,0 +1,45 @@
+/** @format */
+
+table caption {
+  font-family: cursive;
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+.Time {
+  background-color: rgb(44, 42, 37);
+  color: white;
+}
+.MONDAY {
+  background-color: rgb(152, 227, 233);
+}
+.TUESDAY {
+  background-color: rgb(228, 183, 241);
+}
+.WEDNESDAY {
+  background-color: rgb(235, 176, 197);
+}
+.THURSDAY {
+  background-color: rgb(251, 201, 170);
+}
+.FRIDAY {
+  background-color: rgb(188, 188, 253);
+}
+.Table {
+  margin-inline: 30px;
+}
+td,
+th {
+  margin-right: 30px;
+  font-family: cursive;
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  color: black;
+  font-weight: 600;
+}
+td:hover {
+  background-color: rgb(242, 238, 239);
+}
